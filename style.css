@@ -10,18 +10,86 @@ header .header-black{
     background-color: #000000;
     height: 40px;
 }
-header .header-black li{
-    margin-top: 4px;
-    background-image:url("imagens/clubs.png");
-    background-repeat: no-repeat;
-    display: inline-block;
-}
 header .header-black li a{
     margin: auto;
     width: 40px;
     height: 30px;
     display: block;
 }
+header .header-black li{
+    background-image:url("imagens/clubs.png");
+    background-repeat: no-repeat;
+    display: inline-block;
+    background-position: 0px 0px;
+}
+header .header-black li.club-0{
+    background-position: 0px 0px;
+};
+header .header-black li.club-02{
+    background-position: 0px 0px;
+
+};
+header .header-black li.club-03{
+    background-position: 0px 0px;
+
+};
+header .header-black li.club-04{
+    background-position: 0px 0px;
+
+};
+header .header-black li.club-05{
+
+};
+header .header-black li.club-06{
+
+};
+header .header-black li.club-07{
+
+};
+header .header-black li{
+
+};
+header .header-black li{
+
+};
+header .header-black li{
+
+};
+header .header-black li{
+};
+header .header-black li{}
+;
+header .header-black li{
+
+};
+header .header-black li{
+
+};
+header .header-black li{
+
+};
+header .header-black li{
+
+};
+header .header-black li{
+
+};
+header .header-black li{
+
+};
+header .header-black li{
+
+};
+header .header-black li{
+
+};
+header .header-black li{
+
+};
+
+
+
+    
 header #logo-tipo{
     position: absolute;
     top: -25px;
