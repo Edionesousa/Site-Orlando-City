@@ -3,6 +3,10 @@ header{
     height: 150px;
     background-color:#5e299a;
 }
+header #logo-tipo{
+    position: absolute;
+    top: -20px;
+}
 header .container{
     position: relative;
 }
@@ -12,7 +16,7 @@ header .header-black{
 }
 header .header-black li a{
     margin: auto;
-    width: 40px;
+    width: 30px;
     height: 30px;
     display: block;
 }
@@ -20,7 +24,14 @@ header .header-black li{
     background-image:url("imagens/clubs.png");
     background-repeat: no-repeat;
     display: inline-block;
-    background-position: 0px 0px;
+    margin: 4px;
+    left: -5px;
+    
+}
+ul.pull-right{
+    text-align: right;
+    width: px;
+    margin: 0;
 }
 header .header-black li.club-0{
     background-position: 0px 0px;
@@ -90,12 +101,5 @@ header .header-black li{
 
 
     
-header #logo-tipo{
-    position: absolute;
-    top: -25px;
-}
-ul.pull-right{
-    text-align: right;
-}
 
 
