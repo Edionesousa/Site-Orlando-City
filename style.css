@@ -11,19 +11,23 @@ header .header-black{
     height: 40px;
 }
 header .header-black li{
-    background-image:url("../Site-Orlando-City/imagens/clubs.png");
+    margin-top: 4px;
+    background-image:url("imagens/clubs.png");
     background-repeat: no-repeat;
     display: inline-block;
 }
 header .header-black li a{
+    margin: auto;
     width: 40px;
     height: 30px;
-    margin: 5px;
     display: block;
 }
 header #logo-tipo{
     position: absolute;
     top: -25px;
+}
+ul.pull-right{
+    text-align: right;
 }
 
 
