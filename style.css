@@ -7,13 +7,13 @@ header .container{
     position: relative;
 }
 header .header-black{
-    background-color: #00000044;
+    background-color: #000000;
     height: 40px;
 }
 header .header-black li{
     background-image:url("../Site-Orlando-City/imagens/clubs.png");
     background-repeat: no-repeat;
-    display: inline;
+    display: inline-block;
 }
 header .header-black li a{
     width: 32px;
@@ -22,7 +22,7 @@ header .header-black li a{
 }
 header #logo-tipo{
     position: absolute;
-    top: -20px;
+    top: -25px;
 }
 
 
