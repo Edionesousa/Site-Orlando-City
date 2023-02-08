@@ -9,10 +9,14 @@ header #logo-tipo{
 }
 header .container{
     position: relative;
+    width: 100%;
 }
 header .header-black{
     background-color: #000000;
     height: 40px;
+}
+header .header-black img{
+    left: -50%;
 }
 header .header-black li a{
     margin: auto;
@@ -21,23 +25,14 @@ header .header-black li a{
     display: block;
 }
 header .header-black li{
-    background-image:url("imagens/clubs.png");
-    background-repeat: no-repeat;
+    background-image: url(imagens/clubs.png);
     display: inline-block;
-    margin: 4px;
-    left: -5px;
-    
 }
-ul.pull-right{
-    text-align: right;
-    width: px;
-    margin: 0;
-}
-header .header-black li.club-0{
+header .header-black li.club-01{
     background-position: 0px 0px;
 };
 header .header-black li.club-02{
-    background-position: 0px 0px;
+    background-position: 98%;
 
 };
 header .header-black li.club-03{
@@ -49,57 +44,57 @@ header .header-black li.club-04{
 
 };
 header .header-black li.club-05{
-
+    background-position: 0px 0px;
 };
 header .header-black li.club-06{
-
+    background-position: 0px 0px;
 };
 header .header-black li.club-07{
-
+    background-position: 0px 0px;
 };
 header .header-black li{
-
+    background-position: 0px 0px;
 };
 header .header-black li{
-
+    background-position: 0px 0px;
 };
 header .header-black li{
-
+    background-position: 0px 0px;
 };
 header .header-black li{
+    background-position: 0px 0px;
 };
-header .header-black li{}
+header .header-black li{
+    background-position: 0px 0px;
+}
 ;
 header .header-black li{
-
+    background-position: 0px 0px;
 };
 header .header-black li{
-
+    background-position: 0px 0px;
 };
 header .header-black li{
-
+    background-position: 0px 0px;
 };
 header .header-black li{
-
+    background-position: 0px 0px;
 };
 header .header-black li{
-
+    background-position: 0px 0px;
 };
 header .header-black li{
-
+    background-position: 0px 0px;
 };
 header .header-black li{
-
+    background-position: 0px 0px;
 };
 header .header-black li{
-
+    background-position: 0px 0px;
 };
 header .header-black li{
-
+    background-position: 0px 0px;
 };
 
-
-
-    
 
 
