@@ -37,16 +37,16 @@ header .header-black li{
     display: inline-block;
 }
 header .header-black li.club-01{
-    background-position: 2px 0px;
+    background-position: 0px 0px;
 }
 header .header-black li.club-2{
-    background-position: -45px 0px;
+    background-position: -44px 0px;
 };
 header .header-black li.club-3{
     background-position: -87px 0ox;
 };
 
-/*header .header-black li.club-03{
+header .header-black li.club-03{
     background-position: -94px 0px;
 
 };
