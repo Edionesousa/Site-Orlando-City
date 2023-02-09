@@ -23,12 +23,12 @@ header .header-black li a{
     margin: 0;
     padding: 0;
     width: 40px;
-    height: 40px;
+    height: 30px;
     display: block;
 }
 .float-right{
     height: 32px;
-    margin:0;
+    margin:2px;
     padding:0;
 }
 header .header-black li{
@@ -36,72 +36,72 @@ header .header-black li{
     background-repeat: no-repeat;
     display: inline-block;
 }
-header .header-black li.club-01{
+header .header-black li{
     background-position: 6px 0px;
 }
 header .header-black li.club-02{
     background-position: -45px 0px;
-};
+}
 header .header-black li.club-03{
-    background-position:-91px 0px ;  
-};
+    background-position: -91px 0px ;
+}
 header .header-black li.club-04{
     background-position: -136px 0px;
-};
+}
 header .header-black li.club-05{
     background-position:-236px 0px ;
-};
+}
 header .header-black li.club-06{
     background-position: -285px 0px;
-};
+}
 header .header-black li.club-07{
     background-position:-333px 0px;
-};
+}
 header .header-black li.club-08{
     background-position:-377px 0px;
-};
+}
 header .header-black li.club-09{
     background-position:-426px 0px;
-};
+}
 header .header-black li.club-10{
     background-position: -477px 0px;
-};
+}
 header .header-black li.club-11{
     background-position:-526px 0px ;
-};
+}
 header .header-black li.club-12{
     background-position: -578px 0px;
-};
+}
 header .header-black li.club-13{
     background-position:-626px 0px ;
-};
+}
 header .header-black li.club-14{
     background-position:-672px 0px;
-};
+}
 header .header-black li.club-15{
     background-position:-715px 0px;
-};
+}
 header .header-black li.club-16{
     background-position:-760px 0px;
-};
+}
 header .header-black li.club-17{
     background-position:-803px 0px ;
-};
+}
 header .header-black li.club-18{
     background-position:-853px 0px ;
-};
+}
 header .header-black li.club-19{
     background-position:-899px 0px ;
-};
+}
 header .header-black li.club-20{
     background-position:-945px 0px ;
-};
+}
 header .header-black li.club-21{
     background-position:-995px 0px ;
-};
+}
 header .header-black li.club-22{
     background-position:-186px 0px ;
-};
+}
 #menu li{
     display: inline-block;
     font-family: "openSans";
@@ -117,6 +117,11 @@ header .header-black li.club-22{
     font-size: 16px;
     margin: 1px;
     padding: 1px 2px;
+}
+div.float-right{
+    background-position: 0px;
+    margin: 12px;
+    padding: 0px;
 }
 ::marker{
     text-decoration: none;
