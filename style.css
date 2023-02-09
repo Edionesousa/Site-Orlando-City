@@ -106,6 +106,8 @@ header .header-black li.club-22{
 #menu li{
     display: inline-block;
     font-family: "openSans";
+    margin: 3px 0px 0px 0px;
+
 }
 #menu li a{
     color: #fff;
