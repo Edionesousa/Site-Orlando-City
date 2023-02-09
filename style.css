@@ -37,37 +37,37 @@ header .header-black li{
     display: inline-block;
 }
 header .header-black li.club-01{
-    background-position: 0px 0px;
+    background-position: 8px 0px;
 }
 header .header-black li.club-2{
-    background-position: -44px 0px;
+    background-position: -45px 0px;
 };
 header .header-black li.club-3{
-    background-position: -87px 0ox;
+    background-position: -94px;
 };
 
 header .header-black li.club-03{
-    background-position: -94px 0px;
+    background-position: -94px;
 
 };
 header .header-black li.club-04{
-    background-position: -140px 0px;
+    background-position: -140px;
 
 };
 header .header-black li.club-05{
-    background-position: 0px 0px;
+    background-position: -190px;
 };
 header .header-black li.club-06{
-    background-position: 0px 0px;
+    background-position:-238px ;
 };
 header .header-black li.club-07{
-    background-position: 0px 0px;
+    background-position: -288px;
 };
 header .header-black li{
-    background-position: 0px 0px;
+    background-position: -336px 0px;
 };
 header .header-black li{
-    background-position: 0px 0px;
+    background-position: -380px 0px;
 };
 header .header-black li{
     background-position: 0px 0px;
