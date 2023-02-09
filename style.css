@@ -5,7 +5,8 @@ header{
 }
 header #logo-tipo{
     position: absolute;
-    top: -20px;
+    top: 15px;
+    margin: 0px 0px 0px 41px;
 }
 header .container{
     position: relative;
