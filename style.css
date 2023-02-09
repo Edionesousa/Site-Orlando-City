@@ -102,6 +102,31 @@ header .header-black li.club-21{
 header .header-black li.club-22{
     background-position:-186px 0px ;
 };
+#menu li{
+    display: inline-block;
+    font-family: "openSans";
+}
+#menu li a{
+    color: #fff;
+    font-size: 16px;
+    margin: 26px;
+    padding: 10px 25px;
+}
+#menu li input{
+    height: 30px;
+    font-size: 16px;
+    margin: 1px;
+    padding: 1px 2px;
+}
+::marker{
+    text-decoration: none;
+    color:#5e299a;
+    width: 0px;
+}
+    
+
+
+
 
 
 
