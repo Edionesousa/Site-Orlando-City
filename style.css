@@ -113,6 +113,11 @@ header .header-black li.club-22{
     margin: 26px;
     padding: 10px 25px;
 }
+.fi-fi-rr-search{
+    width: 30px;
+    height: 30px;
+    margin: 0px 0px 0px -41px;
+}
 #menu li input{
     height: 30px;
     font-size: 16px;
