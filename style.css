@@ -152,11 +152,17 @@ div.float-right{
     top: -110px;
 }
 .banner p{
+    width: 100%;
     color: white;
     margin: 0px 0px 0px 33px;    
-    top: 300px;
+    top: 250px;
     position:relative;
     font-size: 92px;
+}
+small{
+    margin-bottom: 0px;
+    height: 40px;
+    font-size: 45px;
 }
 
 
