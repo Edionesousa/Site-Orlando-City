@@ -165,14 +165,34 @@ div.float-right{
 small{
     margin-bottom: 0px;
     height: 40px;
-    font-size: 45px;
+    font-size: 40px;
+    position: absolute;
 }
+
+/* Noticias */
 #news{
     color: #5e2799;
     font-family: "OpenSans-light";
     font-size: 48px;
     text-transform: uppercase;
 }
+#news hr{
+    background: url(imagens/noticia-thumb.jpg) no-repeat;
+    border: #fde192 solid 2px;
+    width: 200px;
+    margin: 0 auto;
+}
+#news .thumbnails{
+    margin-top: 28px;
+
+}
+#news .thumbnails h3{
+    color: #5E299A;
+    font-size: 10px;
+}
+#news .thumbnails .time{
+    font-size: 8px;
+
 
 
 
