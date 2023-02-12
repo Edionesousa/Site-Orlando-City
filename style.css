@@ -192,9 +192,11 @@ small{
 }
 #news .thumbnails .time{
     font-size: 8px;
-
-
-
+}
+time{
+    font-size: 20px;
+    mask-position: absolut;
+}
 
 
 
