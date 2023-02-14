@@ -185,11 +185,15 @@ small{
     font-size: 48px;
     text-transform: uppercase;
 }
-#news >hr{
+#news .hr{
     background: url(imagens/noticia-thumb.jpg) no-repeat;
-    border: #fde192 solid 2px;
-    width: 200px;
     margin: 0 auto;
+}
+hr{
+    background-color: #fde092bc;
+    border-radius: 6px;
+    height: 8px;
+    width: 210px;
 }
 #news .thumbnails{
     margin-top: 28px;
