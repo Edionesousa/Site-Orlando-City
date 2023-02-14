@@ -9,10 +9,12 @@ header{
     z-index:2;
     position: relative;
 }
-header #logo-tipo{
+header img#logo-tipo{
+    margin: 175px 0px 0px 0px;
     position: absolute;
     top: 15px;
-    margin: 0px 0px 0px 41px;
+    margin: 0px 0px 0px 10px;
+
 }
 header .container{
     position: relative;
@@ -39,7 +41,7 @@ header .header-black li a{
     padding:0;
 }
 #menu.row{
-    margin: 20px 16px 0px 373px;
+    margin: 20px -160px 0px 373px;
     width: 1000px;
 }
 
