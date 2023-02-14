@@ -42,6 +42,8 @@ header .header-black li a{
     margin: 20px 16px 0px 373px;
     width: 1000px;
 }
+
+/*Clubes*/
 header .header-black li{
     background-image: url(imagens/clubs.png);
     background-repeat: no-repeat;
@@ -113,6 +115,9 @@ header .header-black li.club-21{
 header .header-black li.club-22{
     background-position:-186px 0px ;
 }
+
+/*Menus*/
+
 #menu li{
     display: inline-block;
     font-family: 'Open Sans', sans-serif;
@@ -154,6 +159,10 @@ div.float-right{
     position:relative;
     top: -110px;
 }
+img#banner{
+    width: 100%;
+    height: 720px;
+}
 .banner p{
     width: 100%;
     color: white;
@@ -176,7 +185,7 @@ small{
     font-size: 48px;
     text-transform: uppercase;
 }
-#news hr{
+#news >hr{
     background: url(imagens/noticia-thumb.jpg) no-repeat;
     border: #fde192 solid 2px;
     width: 200px;
@@ -186,16 +195,40 @@ small{
     margin-top: 28px;
 
 }
-#news .thumbnails h3{
-    color: #5E299A;
+#news .thumbnails{
+    color: #5e299a80;
     font-size: 10px;
+    text-transform:lowercase;
+}
+h3{
+    text-transform: lowercase;
+    width: 280px;
+    padding: 10px;
 }
 #news .thumbnails .time{
     font-size: 8px;
 }
 time{
-    font-size: 20px;
-    mask-position: absolut;
+    font-size: 20px; 
+    font-style: italic;
+    position: relative;
+    bottom: 35px;
+    text-transform:lowercase;
+}
+
+/* Estatiticas*/
+
+#estatisticas{
+    background-color: #5e2799;
+    width: 100%;
+    height: 200px;
+}
+div.col-md-4{
+    width: 158px;
+    height: 200px;
+    color: white;
+    padding: 0;
+    margin: 0;
 }
 
 
