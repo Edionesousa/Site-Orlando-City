@@ -259,6 +259,37 @@ small, .small{
 }
 
 /*Rodape*/
+h4{
+    text-align: center;
+    margin-top: 20px;
+}
+.p3{
+    margin: auto;
+}
+.div.container{
+    width: 100%;
+    height: 400px;
+}
+
+.btn-primary{
+    background-color: #4c24aa;
+    margin-left: 20px;
+    width: 150px;
+    border: none;
+
+}
+:hover.btn-primary{
+    background-color: #562cb8;
+}
+.btn-default{
+    background-color:#e0b748bc ;
+    width: 150px;
+    color: #5e2799;
+    border: none;
+}
+:hover.btn-secondary{
+    background-color:#daaa27bc ;
+}
 
 
 
