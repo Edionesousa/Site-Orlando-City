@@ -258,7 +258,7 @@ small, .small{
 
 }
 
-/*Rodape*/
+/*Cadastro, compta, registro*/
 h4{
     text-align: center;
     margin-top: 20px;
@@ -271,24 +271,34 @@ h4{
     height: 400px;
 }
 
-.btn-primary{
+.btn-btn-default{
     background-color: #4c24aa;
     margin-left: 20px;
     width: 150px;
     border: none;
 
 }
-:hover.btn-primary{
+:hover.btn-btn-default{
     background-color: #562cb8;
 }
-.btn-default{
+.btn-btn-default{
     background-color:#e0b748bc ;
     width: 150px;
     color: #5e2799;
     border: none;
 }
-:hover.btn-secondary{
+:hover.btn-btn-default{
     background-color:#daaa27bc ;
+}
+.text-justify{
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+}
+.mx-auto{
+    margin-top: 40px;
+    margin-bottom: 40px;
+
 }
 
 
