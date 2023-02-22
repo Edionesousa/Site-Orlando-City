@@ -35,13 +35,17 @@ header .header-black li a{
     height: 30px;
     display: block;
 }
+nav{
+    width: 100%;
+}
 .float-right{
-    height: 32px;
-    margin:2px;
+    width: 1082px;
+    height: 40px;
+    margin:0;
     padding:0;
 }
 #menu.row{
-    margin: 20px -160px 0px 373px;
+    margin: 20px -160px 0px 182px;
     width: 1000px;
 }
 
@@ -237,16 +241,30 @@ time{
     
 }
 small{
-    margin: auto;
+    font-family: 'Open Sans', sans-serif;
     color:#fde092bc ;
-    text-align: center;
     font-size: 30px;
     width: 349px;
     height: 50px;
-    padding:0;
+    text-transform:none;
+    position: absolute;
     display: block;
-    text-transform: uppercase;
-
+}
+div.col-md-4{
+    margin: auto;
+    margin-top: 15px;
+    padding: 0;
+}
+p{
+    font-family: "OpenSans-light";
+    color:#fde092bc ;
+    font-size: 50px;
+    width: 349px;
+    height: 70px;
+    padding:10px ;
+    text-transform:none;
+    position: absolute;
+    display: block;
 }
 
 /*Cadastro, compra, registro*/
