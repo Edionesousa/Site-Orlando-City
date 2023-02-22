@@ -5,7 +5,7 @@ header{
     width: 100%;
     height: 150px;
     font-size: 1rem;
-    background-color:#5e299a8f;
+    background-color:#5e299ae5;
     z-index:2;
     position: relative;
 }
@@ -159,10 +159,20 @@ div.float-right{
     height: 720px;
     background:url(imagens/banner.jpg) no-repeat;
     position:relative;
+    padding: 30px 0px 0px 0px;
     top: -110px;
 }
+.text-justify{
+    margin-top: 50px;
+    margin-bottom: 40px;
+
+}
+.text-justify p{
+    position: absolute;
+    text-transform: none;
+}
 img#banner{
-    width: 100%;
+    width: 110%;
     height: 720px;
 }
 .banner p{
@@ -170,15 +180,9 @@ img#banner{
     color: white;
     margin: 0px 0px 0px 33px;    
     top: 250px;
-    position:relative;
     font-size: 92px;
 }
-small{
-    margin-bottom: 0px;
-    height: 40px;
-    font-size: 40px;
-    position: absolute;
-}
+
 
 /* Noticias */
 #news{
@@ -230,22 +234,9 @@ time{
     width: 100%;
     height: 200px;
     display: block;
-
+    
 }
-p{
-    margin-top: 10px;
-    font-family: "OpenSans-light";
-    text-align: center;
-    color:#fde092bc ;
-    text-transform:lowercase;
-    height: 50px;
-    font-size: 45px;
-    display: block;
-
-
-}
-small, .small{
-
+small{
     margin: auto;
     color:#fde092bc ;
     text-align: center;
@@ -258,13 +249,10 @@ small, .small{
 
 }
 
-/*Cadastro, compta, registro*/
+/*Cadastro, compra, registro*/
 h4{
     text-align: center;
     margin-top: 20px;
-}
-.p3{
-    margin: auto;
 }
 .div.container{
     width: 100%;
@@ -289,11 +277,6 @@ h4{
 }
 :hover.btn-btn-default{
     background-color:#daaa27bc ;
-}
-.text-justify{
-    margin-top: 40px;
-    margin-bottom: 40px;
-
 }
 .mx-auto{
     margin-top: 40px;
