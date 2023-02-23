@@ -334,7 +334,16 @@ footer .col-md-4{
 
 }
 footer div.row{
+
     height: 200px;
+}
+footer .col-md-4.col-links a{
+    color: white;
+    font-size: 20px;
+}
+footer .get-in-touch{
+    color: white;
+    font-size: 20px;
 }
 
 footer .final{
@@ -342,6 +351,10 @@ footer .final{
     border-top: 1px solid rgba(255, 255, 255, 0.62);
     height: 100px;
     width: 100%;
+}
+.fa-phone{
+    color: white;
+
 }
 
 
