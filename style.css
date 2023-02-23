@@ -293,34 +293,55 @@ h4{
     text-align: center;
     margin-top: 20px;
 }
-.div.container{
-    width: 100%;
-    height: 400px;
-}
-
-.btn-btn-default{
+#shopp{
     background-color: #4c24aa;
+    color: white;
     margin-left: 20px;
     width: 150px;
     border: none;
-
+    margin-top: 80px;
+    margin-bottom: 80px;
 }
-:hover.btn-btn-default{
-    background-color: #562cb8;
-}
-.btn-btn-default{
+#register{
     background-color:#e0b748bc ;
     width: 150px;
-    color: #5e2799;
+    color:whit;
     border: none;
-}
-:hover.btn-btn-default{
-    background-color:#daaa27bc ;
+    margin-top: 80px;
+    margin-bottom: 80px;
 }
 .mx-auto{
     margin-top: 40px;
     margin-bottom: 40px;
+}
+/*footer*/
 
+footer{
+    background-color: #000000cd;
+    height: 200px;
+    align-items: center;
+    position: relative;
+}
+footer .col-md-2{
+    padding: 30px;
+
+}
+footer .col-md-4{
+    color: white;
+    height: 197px;
+    margin: 0;
+    padding: 10px;
+
+}
+footer div.row{
+    height: 200px;
+}
+
+footer .final{
+    background-color: #000000;
+    border-top: 1px solid rgba(255, 255, 255, 0.62);
+    height: 100px;
+    width: 100%;
 }
 
 
