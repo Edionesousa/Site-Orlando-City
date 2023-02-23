@@ -10,6 +10,7 @@ header{
     position: relative;
 }
 header img#logo-tipo{
+    width: auto;
     margin: 175px 0px 0px 0px;
     position: absolute;
     top: 15px;
@@ -21,11 +22,13 @@ header .container{
     width: 100%;
 }
 header .header-black{
+    width: auto;
     background-color: #000000;
     padding: 3px;
     height: 40px;
 }
 header .header-black img{
+    width: auto;
     left: -50%;
 }
 header .header-black li a{
@@ -39,7 +42,7 @@ nav{
     width: 100%;
 }
 .float-right{
-    width: 1082px;
+    width: auto;
     height: 40px;
     margin:0;
     padding:0;
@@ -51,6 +54,7 @@ nav{
 
 /*Clubes*/
 header .header-black li{
+    width: auto;
     background-image: url(imagens/clubs.png);
     background-repeat: no-repeat;
     display: inline-block;
@@ -127,7 +131,7 @@ header .header-black li.club-22{
 #menu li{
     display: inline-block;
     font-family: 'Open Sans', sans-serif;
-    margin: 3px 0px 0px 0px;
+    margin:0;
 
 }
 #menu li a{
@@ -135,6 +139,11 @@ header .header-black li.club-22{
     font-size: 20px;
     margin: 26px;
     padding: 10px 25px;
+}
+ul#menu.row{
+    margin: 0;
+    padding: 0px 0px 0px 118px;
+    width: auto;
 }
 .fa-search{
     width: 30px;
@@ -159,30 +168,42 @@ div.float-right{
 }
 /* corpo */
 .banner{
-    width: 100%;
+    width: auto;
     height: 720px;
     background:url(imagens/banner.jpg) no-repeat;
     position:relative;
-    padding: 30px 0px 0px 0px;
+    padding: 200px 0px 0px 0px;
     top: -110px;
 }
-.text-justify{
-    margin-top: 50px;
-    margin-bottom: 40px;
-
+div.shadow-sm p{
+    color: #fff;
+    text-shadow: 2px 0px 0px rgba(0, 0, 0, 0.496);
+    margin-left: 60px;
+    width: 50%;
+    height: 50%;
+    font-size: 100px;
+}
+div.shadow-sm small{
+    margin-top: 60px;
+    margin-left: 30px;
+    color: #fff;
+    text-shadow: 2px 0px 0px rgba(0, 0, 0, 0.496);
+    width: auto;
+    height: auto;
+    font-size: 35px;
 }
 .text-justify p{
     position: absolute;
     text-transform: none;
 }
 img#banner{
-    width: 110%;
+    width: auto;
     height: 720px;
 }
-.banner p{
+.banner small p{
+    margin: 0;    
     width: 100%;
     color: white;
-    margin: 0px 0px 0px 33px;    
     top: 250px;
     font-size: 92px;
 }
