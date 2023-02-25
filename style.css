@@ -207,6 +207,9 @@ img#banner{
     top: 250px;
     font-size: 92px;
 }
+section{
+    margin: -80px;
+}
 
 
 /* Noticias */
