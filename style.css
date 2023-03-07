@@ -1,8 +1,16 @@
 :root{
     width:auto;
     font-family: 'Open Sans', sans-serif;
-
 }
+@media (max-width: 100%)
+{
+  .facet_sidebar
+   {
+    display: none;
+   }
+}    
+    
+
 header{
     width: auto;
     height: 9rem;
