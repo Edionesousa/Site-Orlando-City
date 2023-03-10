@@ -2,15 +2,6 @@
     width:auto;
     font-family: 'Open Sans', sans-serif;
 }
-@media (max-width: 100%)
-{
-  .facet_sidebar
-   {
-    display: none;
-   }
-}    
-    
-
 header{
     width: auto;
     height: 9rem;
@@ -177,7 +168,6 @@ div.float-right{
 }
 /* corpo */
 section div.banner{
-    width: 100rem;
     height: 54em;
     background:url(imagens/banner.jpg) no-repeat;
     position:relative;
@@ -296,7 +286,6 @@ p{
     font-family: "OpenSans-light";
     color:#fde092bc ;
     font-size: 50px;
-    width: 349px;
     height: 70px;
     padding:10px ;
     text-transform:none;
